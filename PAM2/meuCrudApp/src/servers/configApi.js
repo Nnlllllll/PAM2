@@ -1,0 +1,1 @@
+export const API_URL = "https://good-memes-scream.loca.lt"
