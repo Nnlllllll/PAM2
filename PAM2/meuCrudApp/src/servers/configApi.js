@@ -1,1 +1,1 @@
-export const API_URL = "https://good-memes-scream.loca.lt"
+export const API_URL = "http://localhost:3000"
