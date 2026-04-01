@@ -1,7 +1,7 @@
 Este projeto é um aplicativo de gerenciamento de pessoas (CRUD) desenvolvido para facilitar o cadastro, edição, visualização e exclusão de usuários. 
 O foco principal foi criar uma interface simples e funcional para dispositivos móveis e web, permitindo o armazenamento persistente de dados através de uma API simulada.
 
-Tecnologias Utilizadas:
+*Tecnologias Utilizadas:
 
   React Native / Expo: Framework para o desenvolvimento da interface e navegação.
 
@@ -21,7 +21,7 @@ A solução foi estruturada separando a interface (Frontend) da persistência de
 
   Backend: O json-server observa o arquivo db.json, funcionando como um banco de dados real que mantém as informações gravadas mesmo após fechar o aplicativo.
 
-Instalação:
+*Instalação:
 
 Pré-requisito:
 
@@ -36,7 +36,7 @@ e
   cd crud-server
   npm install json-server
 
-Execução: 
+*Execução: 
 
 No terminal:
 
